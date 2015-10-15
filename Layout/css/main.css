@@ -1,0 +1,123 @@
+.container{
+	width: 700px;
+	margin: 30px auto;
+}
+ul{
+	position: relative;
+	left: 3.5%;
+}
+.line1{
+	width: 90%;
+	height: 1px;
+	border-color: black;
+}
+#button{
+	padding: 0;
+}
+#button li{
+	display: inline;
+}
+#button li a{
+	font-family: Verdana;
+	font-size: 24px;
+	text-decoration: none;
+	padding: 20px 10px;
+	color: black;
+}
+.bordermenu{
+	border-right: 2px solid black;
+}
+#button li a:hover{
+	color: #faa719;
+}
+.line2{
+	width: 15%;
+	height: 5px;
+	background: gray;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border: none;
+}
+.text{
+	text-align: center;
+	font-size:35px;
+	padding: 20px 40px;
+}
+.line3{
+	width: 15%;
+	height: 4px;
+	background: black;
+	margin-left: 0;
+	margin-bottom: 20px;
+	border: none;
+}
+span p{
+	position: absolute;
+	z-index:1;
+	right:30px;
+	bottom:0px;
+	color:white;
+}
+span{
+	position:relative;
+}
+.img{
+	margin: 9px;
+}
+.filtro{
+	-webkit-filter: brightness(65%);
+	filter: brightness(65%);
+}
+.filtro2{
+	-webkit-filter: sepia(100%);
+}
+.marco{
+	border: 1px solid black;
+}
+.imgcirculo{
+	border-radius: 100%;
+	margin: 20px 35%;
+}
+h1{
+	text-align: center;
+	margin-top: 5px;
+}
+.portafolio{
+	width: 200px;
+	margin: 0 5px;
+}
+h1{
+	font-family: Verdana;
+}
+h2{
+	font-family: Verdana;
+	padding: 5px 10px
+}
+.centrar{
+	margin: 30px;
+}
+.habilidades{
+	text-decoration: none;
+	background-color: gray;
+	color: white;
+	padding: 10px;
+	margin: 15px 50px;
+}
+.nivel1{
+	width: 70%;
+}
+.nivel2{
+	width: 50%;
+}
+.nivel3{
+	width: 30%;
+}
+.filtro3{
+	opacity: 0.6;
+}
+span a:hover{
+	opacity: 0.7;
+}
+div a:hover{
+	opacity: 0.7;
+}
